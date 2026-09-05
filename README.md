@@ -1,1 +1,1 @@
-# reccommender_systems_course
+# recommender_systems_course
